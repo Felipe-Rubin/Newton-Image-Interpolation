@@ -1,7 +1,7 @@
 # Newton-Image-Interpolation
 Using Newton Interpolating Polynomial to resize an Image
 
-#EN_US
+# EN_US
 Author:
 Felipe Pfeifer Rubin
 C:128
@@ -33,7 +33,7 @@ Example images can be found at TestingImages/
 
 There's also a graphical interface version for Windows, Linux and MacOS but keep in mind that it is in alpha version. As such, some errors might happen.
 
-#PT_BR
+# PT_BR
 Autor:
 Felipe Pfeifer Rubin
 T:128
